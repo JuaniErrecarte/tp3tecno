@@ -1,0 +1,113 @@
+{
+  "audio": "audios/sonidofinal.mp3",
+  "modelo": "modelos/scaloMuseo.glb",
+  "fondo": "rgb(0,0,0)",
+  "data": [
+    {
+      "tiempo": "00:00",
+      "duracion": "1000",
+      "camara": "camara1",
+      "target": "target1",
+      "nombre": "1"
+    },
+    {
+      "tiempo": "00:02",
+      "duracion": "2000",
+      "camara": "camara2",
+      "target": "target2",
+      "nombre": "2"
+    },
+    {
+      "tiempo": "00:08",
+      "duracion": "2000",
+      "camara": "camara3",
+      "target": "target3",
+      "nombre": "3"
+    },
+    {
+      "tiempo": "00:18",
+      "duracion": "3000",
+      "camara": "camara4",
+      "target": "target4",
+      "nombre": "4"
+    },
+    {
+      "tiempo": "00:36",
+      "duracion": "3000",
+      "camara": "camara5",
+      "target": "target5",
+      "nombre": "5"
+    },
+    {
+      "tiempo": "00:40",
+      "duracion": "3000",
+      "camara": "camara80",
+      "target": "target80",
+      "nombre": "5.2"
+    },
+    {
+      "tiempo": "01:15",
+      "duracion": "3000",
+      "camara": "camara6",
+      "target": "target6",
+      "nombre": "6"
+    },
+    {
+      "tiempo": "01:25",
+      "duracion": "2000",
+      "camara": "camara6",
+      "target": "target7",
+      "nombre": "7"
+    },
+    {
+      "tiempo": "01:30",
+      "duracion": "2000",
+      "camara": "camara7",
+      "target": "target8",
+      "nombre": "8"
+    },
+    {
+      "tiempo": "01:37",
+      "duracion": "2000",
+      "camara": "camara8",
+      "target": "target9",
+      "nombre": "9"
+    },
+    {
+      "tiempo": "01:52",
+      "duracion": "3000",
+      "camara": "camara7",
+      "target": "target10",
+      "nombre": "10"
+    },
+    {
+      "tiempo": "01:55",
+      "duracion": "2000",
+      "camara": "camara9",
+      "target": "target12",
+      "nombre": "10"
+    },
+
+    {
+      "tiempo": "02:03",
+      "duracion": "2000",
+      "camara": "camara9",
+      "target": "target11",
+      "nombre": "11"
+    },
+    {
+      "tiempo": "02:10",
+      "duracion": "2000",
+      "camara": "camara9",
+      "target": "target12",
+      "nombre": "12"
+    },
+    {
+      "tiempo": "02:35",
+      "duracion": "2000",
+      "camara": "camara9",
+      "target": "target13",
+      "nombre": "13"
+    }
+  ]
+}
